@@ -18,11 +18,46 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1000 A+B.c" />
+    <ClCompile Include="1001 A-B.c" />
+    <ClCompile Include="1008 A÷B.c" />
+    <ClCompile Include="10171 고양이.c" />
+    <ClCompile Include="10172 개.c" />
+    <ClCompile Include="10430 나머지.c" />
+    <ClCompile Include="105 출력_형성평가5.c" />
+    <ClCompile Include="106 입력 형성평가1.c" />
+    <ClCompile Include="107 입력 형성평가2.c" />
+    <ClCompile Include="10718 We love kriii.c" />
+    <ClCompile Include="108 입력 형성평가3.c" />
+    <ClCompile Include="10869 사칙연산.c" />
+    <ClCompile Include="109 입력 형성평가4.c" />
+    <ClCompile Include="10998 A×B.c" />
+    <ClCompile Include="110 입력 형성평가5.c" />
+    <ClCompile Include="111 연산자_형성평가1.c" />
+    <ClCompile Include="112 연산자_형성평가2.c" />
+    <ClCompile Include="113 연산자_형성평가3.c" />
+    <ClCompile Include="114 연산자 형성평가4.c" />
+    <ClCompile Include="115 연산자 형성평가5.c" />
+    <ClCompile Include="2557 Hello World.c" />
+    <ClCompile Include="2588 곱셈.c" />
+    <ClCompile Include="513 입력_자가진단5.c" />
+    <ClCompile Include="516 입력 자가진단8.c" />
+    <ClCompile Include="517 입력 자가진단9.c" />
+    <ClCompile Include="518 연산자_자가진단1.c" />
+    <ClCompile Include="519 연산자_자가진단2.c" />
+    <ClCompile Include="520 연산자 자가진단3.c" />
+    <ClCompile Include="521 연산자 자가진단4.c" />
+    <ClCompile Include="522 연산자 자가진단5.c" />
+    <ClCompile Include="523 연산자 자가진단6.c" />
+    <ClCompile Include="524 연산자 자가진단7.c" />
+    <ClCompile Include="525 연산자 자가진단8.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4e9aab51-3379-444f-b00b-8b66c2afa62e}</ProjectGuid>
-    <RootNamespace>Project1</RootNamespace>
+    <ProjectGuid>{75ab77de-3ea2-4424-9648-9b39cf9cd15e}</ProjectGuid>
+    <RootNamespace>CBasic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,9 +173,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="hello.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="113 연산자_형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="114 연산자 형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="115 연산자 형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="513 입력_자가진단5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="516 입력 자가진단8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="517 입력 자가진단9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="518 연산자_자가진단1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="519 연산자_자가진단2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="520 연산자 자가진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="521 연산자 자가진단4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="522 연산자 자가진단5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="523 연산자 자가진단6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="524 연산자 자가진단7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="525 연산자 자가진단8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1000 A+B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1001 A-B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1008 A÷B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2557 Hello World.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2588 곱셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10171 고양이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10172 개.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10430 나머지.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10718 We love kriii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10869 사칙연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10998 A×B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="105 출력_형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="106 입력 형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="107 입력 형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="108 입력 형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="109 입력 형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="110 입력 형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="111 연산자_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="112 연산자_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
