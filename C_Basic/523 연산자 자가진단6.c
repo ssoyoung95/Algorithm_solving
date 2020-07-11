@@ -14,10 +14,10 @@ int main(void)
 	result3 = (a >= b);
 	result4 = (a <= b);
 
-	printf("4 > 5 --- %d\n", result1);
-	printf("4 < 5 --- %d\n", result2);
-	printf("4 >= 5 --- %d\n", result3);
-	printf("4 <= 5 --- %d\n", result4);
+	printf("%d > %d --- %d\n",a,b, result1);
+	printf("%d < %d --- %d\n",a,b, result2);
+	printf("%d >= %d --- %d\n",a,b, result3);
+	printf("%d <= %d --- %d\n",a,b, result4);
 
 	return 0;
 }

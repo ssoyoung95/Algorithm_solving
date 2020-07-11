@@ -3,12 +3,11 @@
 int main(void)
 
 {
-	int a;
-	float b;
+	int a = 50;
+	double b = 100.12;
 
-
-	scanf("%f %d", &b, &a);
-	printf("%.2f * %d = %f", b , a , a*b);
+	double result = (double)a * b;
+	printf("%.2f * %d = %d", b , a , (int)result);
 
 	
 	return 0;

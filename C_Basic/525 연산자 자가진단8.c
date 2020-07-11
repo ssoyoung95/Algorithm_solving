@@ -7,9 +7,9 @@ int main(void)
 	int result1, result2;
 
 
-	scanf("%d %d %c", &a, &b, &c);
+	scanf("%d %d %d", &a, &b, &c);
 
-	result1 = (a > b) && (c < b) && (c<a);
+	result1 = (a > b) && (c < a);
 	result2 = (a == b) && (c == b) && (c == a);
 
 	printf("%d %d\n", result1, result2);

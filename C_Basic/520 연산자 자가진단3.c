@@ -6,8 +6,8 @@ int main(void)
 	int a;
 
 	scanf("%d", &a);
-	printf("%d\n", a++);
-	printf("%d", a + 1);
+	printf("%d\n", a++); 
+	printf("%d", ++a);
 
 	return 0;
 }

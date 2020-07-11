@@ -3,9 +3,8 @@
 int main(void)
 
 {
-	int a, b, c;
+	int a = 10, b = 20, c = 30;
 
-	scanf("%d %d %d", &a, &b, &c);
 	printf("%d + %d = %d\n", a, b, c);
 
 	return 0;

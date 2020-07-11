@@ -3,9 +3,8 @@
 int main(void)
 
 {
-	float a, b;
+	double a = 80.5, b = 22.34;
 
-	scanf("%f %f", &a, &b);
 	printf("%10.2f%10.2f%10.2f\n", a , b , a+b);
 
 

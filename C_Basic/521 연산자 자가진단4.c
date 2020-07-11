@@ -6,7 +6,10 @@ int main(void)
 	int a,b;
 
 	scanf("%d%d", &a,&b);
-	printf("%d %d %d\n", (a++)+1,--b,(a-1)*b);
+
+	int result = a++ * --b;
+	
+	printf("%d %d %d\n", a, b, result);
 
 	return 0;
 }
