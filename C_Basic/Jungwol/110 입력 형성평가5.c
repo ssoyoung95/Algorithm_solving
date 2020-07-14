@@ -6,9 +6,8 @@ int main(void)
 	double yard;
 
 	printf("yard? ");
-	scanf("%d", &yard);
-	//printf("%d\n", a++);
-	//printf("%d", a + 1);
+	scanf("%lf", &yard);
+	printf("%.1lfyard = %.1lfcm",yard, 91.44 * yard);
 
 	return 0;
 }
