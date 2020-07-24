@@ -16,16 +16,16 @@ int main(void)
 
 {
 	double a , b;
-	int num1;
-	int num2;
+	int mul1;
+	int mul2;
 
 	scanf("%lf %lf", &a, &b);
 
-	num2 = (a * b);
-	num1 = (int)a * (int)b;
+	mul2 = (a * b);
+	mul1 = (int)a * (int)b;
 	
-	printf("%d\n", num2);
-	printf ("%d", num1);
+	printf("%d\n", mul2);
+	printf ("%d", mul1);
 
 	return 0;
 }
