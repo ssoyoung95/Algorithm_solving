@@ -123,13 +123,13 @@
     <ClCompile Include="116 디버깅 형성평가1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="177 디버깅 형성평가2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="118 디버깅 형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="119 디버깅 형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="117 디버깅 형성평가2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
