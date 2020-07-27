@@ -132,47 +132,5 @@
     <ClCompile Include="117 디버깅 형성평가2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="528 선택제어문 자가진단1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="529 선택제어문 자가진단2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="530 선택제어문 자가진단3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="531 선택제어문 자가진단4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="532 선택제어문 자가진단5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="533 선택제어문 자가진단6.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="534 선택제어문 자가진단7.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="535 선택제어문 자가진단8.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="632 선택제어문 자가진단9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="120 선택제어문 형성평가1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="121 선택제어문 형성평가2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="122 선택제어문 형성평가3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="123 선택제어문 형성평가4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="124 선택제어문 형성평가5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
