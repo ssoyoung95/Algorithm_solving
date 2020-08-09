@@ -4,12 +4,12 @@
 int main()
 {
     int num;
-    int i = 1, sum = 0;
+    int idx = 1, sum = 0;
     scanf("%d", &num);
-    while (i <= num)
+    while (idx <= num)
     {
-        sum += i; 
-        i++;
+        sum += idx;
+        idx++;
     }
     printf("%d", sum);
 }

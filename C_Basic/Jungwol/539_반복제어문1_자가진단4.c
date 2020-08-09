@@ -4,22 +4,24 @@ int main()
 {
 	int num;
 	int sum = 0;
-	double avg = sum/11; //³ª´©´Â ¼ö¸¦ ÁöÁ¤?
-	while (1)
+	int idx = 0;
+	double avg = sum / 11.0; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½?
+
+	do
 	{
 		scanf("%d", &num);
-
 		if (num > 0)
 		{
+			idx++;
 			sum += num;
 		}
-		else if (num == 100)
+		if (num >= 100)
 		{
+			avg = (double)(sum) / (double)(idx);
 			printf("%d\n", sum);
-			printf("%lf\n", avg);
-			break;
+			printf("%.1lf\n", avg);
 		}
-	}
+	}while(num < 100);
 
 	return 0;
 }

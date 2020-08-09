@@ -3,13 +3,11 @@
 
 int main()
 {
-    int num;
-    int i = 1, sum = 0;
-    scanf("%d", &num);
-    while (i <= num)
+    int i = 1;
+    while (i < 5)
     {
-        sum += i;
+        printf("%d\n", i);
         i++;
     }
-    printf("%d", sum);
+    return 0;
 }

@@ -3,9 +3,9 @@
 
 int main()
 {
-	int num;
+	int num = 0;
 
-	while (1)
+	do
 	{
 		scanf("%d", &num);
 
@@ -13,15 +13,7 @@ int main()
 		{
 			printf("%d\n", num / 3);
 		}
-		else if (num != -1 && num %3 != 0)
-		{
-			printf("");
-		}
-		else if (num == -1)
-		{
-			break;
-		}
-	}
+	}while(num != -1);
 
 	return 0;
 }
