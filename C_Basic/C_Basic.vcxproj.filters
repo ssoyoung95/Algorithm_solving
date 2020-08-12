@@ -15,199 +15,310 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Jungwol\1000 A+B.c">
+    <ClCompile Include="Baekjun\1000 A+B.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\1001 A-B.c">
+    <ClCompile Include="Baekjun\1000_A+B.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\1008 A÷B.c">
+    <ClCompile Include="Baekjun\1001 A-B.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\10171 고양이.c">
+    <ClCompile Include="Baekjun\1001_A-B.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\10172 개.c">
+    <ClCompile Include="Baekjun\1008 A÷B.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\10430 나머지.c">
+    <ClCompile Include="Baekjun\1008_A÷B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10171 고양이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10171_고양이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10172 개.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10172_개.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10430 나머지.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10430_나머지.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10718 We love kriii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10718_Welovekriii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10869 사칙연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10869_사칙연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10998 A×B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\10998_A×B.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\1330_두수비교하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\14681_사분면고르기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\2557 Hello World.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\2557_HelloWorld.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\2588 곱셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\2588_곱셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\275_윤년.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\2884_알람시계.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjun\9498_시험성적.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\105 출력_형성평가5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\105_출력_형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\106 입력 형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\106_입력_형성평가1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\107 입력 형성평가2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\10718 We love kriii.c">
+    <ClCompile Include="Jungwol\107_입력_형성평가2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\108 입력 형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\10869 사칙연산.c">
+    <ClCompile Include="Jungwol\108_입력_형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\109 입력 형성평가4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\10998 A×B.c">
+    <ClCompile Include="Jungwol\109_입력_형성평가4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\110 입력 형성평가5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\110_입력_형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\111 연산자_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\111_연산자_형성평가1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\112 연산자_형성평가2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\112_연산자_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\113 연산자_형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\113_연산자_형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\114 연산자 형성평가4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\114_연산자_형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\115 연산자 형성평가5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\2557 Hello World.c">
+    <ClCompile Include="Jungwol\115_연산자_형성평가5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Jungwol\2588 곱셈.c">
+    <ClCompile Include="Jungwol\116_디버깅_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\117_디버깅_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\118_디버깅_형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\119_디버깅_형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\120_선택제어문_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\121_선택제어문_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\122_선택제어문_형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\123_선택제어문_형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\124_선택제어문_형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\125_반복제어문1_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\126_반복제어문1_형성평가2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\513 입력_자가진단5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\513_입력_자가진단5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\516 입력 자가진단8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\516_입력_자가진단8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\517 입력 자가진단9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\517_입력_자가진단9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\518 연산자_자가진단1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\518_연산자_자가진단1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\519 연산자_자가진단2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\519_연산자_자가진단2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\520 연산자 자가진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\520_연산자_자가진단3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\521 연산자 자가진단4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\521_연산자_자가진단4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\522 연산자 자가진단5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\522_연산자_자가진단5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\523 연산자 자가진단6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Jungwol\523_연산자_자가진단6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Jungwol\524 연산자 자가진단7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\524_연산자_자가진단7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Jungwol\525 연산자 자가진단8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="526 디버깅_자가진단1.c">
+    <ClCompile Include="Jungwol\525_연산자_자가진단8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="527 디버깅 자가진단2.c">
+    <ClCompile Include="Jungwol\526_디버깅_자가진단1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="116 디버깅 형성평가1.c">
+    <ClCompile Include="Jungwol\527_디버깅_자가진단2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="118 디버깅 형성평가3.c">
+    <ClCompile Include="Jungwol\528_선택제어문_자가진단1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="119 디버깅 형성평가4.c">
+    <ClCompile Include="Jungwol\529_선택제어문_자가진단2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="117 디버깅 형성평가2.c">
+    <ClCompile Include="Jungwol\530_선택제어문_자가진단3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="120 선택제어문 형성평가1.c">
+    <ClCompile Include="Jungwol\531_선택제어문_자가진단4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="121 선택제어문 형성평가2.c">
+    <ClCompile Include="Jungwol\532_선택제어문_자가진단5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="122 선택제어문 형성평가3.c">
+    <ClCompile Include="Jungwol\533_선택제어문_자가진단6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="123 선택제어문 형성평가4.c">
+    <ClCompile Include="Jungwol\534_선택제어문_자가진단7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="124 선택제어문 형성평가5.c">
+    <ClCompile Include="Jungwol\535_선택제어문_자가진단8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="528 선택제어문 자가진단1.c">
+    <ClCompile Include="Jungwol\536_반복제어문1_자가진단1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="529 선택제어문 자가진단2.c">
+    <ClCompile Include="Jungwol\537_반복제어문1_자가진단2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="530 선택제어문 자가진단3.c">
+    <ClCompile Include="Jungwol\538_반복제어문1_자가진단3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="531 선택제어문 자가진단4.c">
+    <ClCompile Include="Jungwol\539_반복제어문1_자가진단4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="532 선택제어문 자가진단5.c">
+    <ClCompile Include="Jungwol\540_반복제어문1_자가진단5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="533 선택제어문 자가진단6.c">
+    <ClCompile Include="Jungwol\632_선택제어문_자가진단9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="535 선택제어문 자가진단8.c">
+    <ClCompile Include="Jungwol\633_반복제어문1_자가진단6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="632 선택제어문 자가진단9.c">
+    <ClCompile Include="127_반복제어문1_형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="534 선택제어문 자가진단7.c">
+    <ClCompile Include="128_반복제어문1_형성평가4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1330 두 수 비교하기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9498 시험성적.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2753 윤년.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="14681 사분면 고르기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2884 알람시계.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="536_반복제어문1_자가진단1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="538_반복제어문1_자가진단3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="537_반복제어문1_자가진단2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="540_반복제어문1_자가진단5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="126_반복제어문1_형성평가2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="125_반복제어문1_형성평가1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="539_반복제어문1_자가진단4.c">
+    <ClCompile Include="129_반복제어문1_형성평가5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

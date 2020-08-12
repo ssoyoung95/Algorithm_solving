@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	int num;
 	int sum = 0;
 	int idx = 0;
-	double avg = sum / 11.0; //������ ���� ����?
+	double avg = sum / 11.0; 
 
 	do
 	{
