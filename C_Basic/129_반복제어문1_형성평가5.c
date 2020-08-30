@@ -15,7 +15,7 @@ int main(void)
 		double	triangle_width = ((double)base * (double)height) / 2;
 		printf("Triangle width = %.1lf\n", triangle_width);
 		printf("Continue? ");
-		scanf("%c", &answer);
+		scanf(" %c", &answer);
 
 	} while (answer == 'Y' || answer == 'y');
 	

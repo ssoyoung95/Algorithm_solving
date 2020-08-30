@@ -321,5 +321,89 @@
     <ClCompile Include="129_반복제어문1_형성평가5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="542_반복제어문2_자가진단2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="543_반복제어문2_자가진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="544_반복제어문2_자가진단4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Jungwol\545_반복제어문2_자가진단5 .c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="546_반복제어문2_자가진단6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="547_반복제어문2_자가진단7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="130_반복제어문2_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="131_반복제어문2_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="132_반복제어문2_형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="133_반복제어문2_형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="134_반복제어문2_형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="135_반복제어문2_형성평가6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="136_반복제어문2_형성평가7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="541_반복제어문2_자가진단1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="137_반복제어문2_형성평가8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="138_반복제어문2_형성평가9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="139_반복제어문2_형성평가A.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="548_반복재어문2_자가진단8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="549_반복제어문3_자가진단1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="634_ 반복제어문3_자가진단2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="572.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="573.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="550.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="551.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="142.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="148.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="144.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="551_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
