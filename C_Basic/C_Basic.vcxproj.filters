@@ -381,12 +381,6 @@
     <ClCompile Include="634_ 반복제어문3_자가진단2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="572.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="573.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="550.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -403,6 +397,36 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="551_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="533.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="574_함수1_자가진단4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="571_함수1_자가진단1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="572_함수1_자가진단2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="573_함수1_자가진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="577_함수1_자가진단7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="170_함수1_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="171_함수1_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="173_함수1_형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="172_함수1_형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
