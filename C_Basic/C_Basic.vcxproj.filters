@@ -429,5 +429,11 @@
     <ClCompile Include="172_함수1_형성평가3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="578_함수1_자가진단8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="576_함수1_자가진단6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

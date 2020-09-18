@@ -1,20 +1,20 @@
 #include <stdio.h>
-int circle_area(double radius)
+double circle_area(double radius)
 {
-	double result;
-	scanf("%lf", &radius);
+	double circle;
+	
+	circle = radius * radius * 3.14;
 
-	result = radius * radius * 3.14;
-	return 0;
+	return circle;
 }
-int main(double input)
-
-
+int main(void)
 {
 	double result;
+	double input;
 
 	scanf("%lf", &input);
 	
-	result = input * input * 3.14;
+	result = circle_area(input);
+
 	printf("%.2lf", result);
 }
