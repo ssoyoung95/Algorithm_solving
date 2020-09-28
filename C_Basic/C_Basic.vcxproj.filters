@@ -435,5 +435,16 @@
     <ClCompile Include="576_함수1_자가진단6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="582_함수2_자가진단4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="581_함수2_자가진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="580_함수2_자가진단2.c">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>

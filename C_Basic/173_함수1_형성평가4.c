@@ -1,19 +1,25 @@
 #include <stdio.h>
 int power (int a, int b)
-{
-	int sum = 1;//
-	
-	for (int idx = 0; idx < b; idx++)
-		
-		sum *= a;
-	return sum; //¸®ÅÏÀÇ °³³ä
+{ 
+	int tamp;
+	int output;
+	if (b < a)
+	{
+		tamp = a;
+		a = b;
+		b = tamp;
+	}
+
+	output = a * a - b * b;
+
+	return output;
 }
+
 
 int main(void)
 {
 	int x, y;
 	scanf("%d %d", &x, &y);
-	printf("%d\n", power( x, y) );
-
-	return 0;
+	printf("%d\n", power(x, y));
+	
 }
