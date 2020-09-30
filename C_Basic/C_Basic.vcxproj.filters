@@ -387,15 +387,6 @@
     <ClCompile Include="551.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="142.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="148.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="144.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="551_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -439,6 +430,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="581_함수2_자가진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="140_반복제어문3_형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="141_반복제어문3_형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="142_반복제어문3_형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="144_반복제어문3_형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="148_반복제어문3_형성평가9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
