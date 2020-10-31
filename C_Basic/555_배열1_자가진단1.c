@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	/*char name[9];
 	scanf(" %c", &name[0]);
 	scanf(" %c", &name[1]);
@@ -23,9 +22,13 @@ int main(void)
 	for (idx = 0; idx < 10; idx++)
 	{
 		scanf(" %c", &name[idx]);
-		printf("%c", name[idx]);
 	}
 	
+	for (idx = 0; idx < 10; idx++)
+	{
+		printf("%c", name[idx]);
+	}
+
 	return 0;
 }
 
