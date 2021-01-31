@@ -9,7 +9,7 @@ int main(void)
 
    scanf("%d", &num);
 
-   printf("%d", *p); //메모리 주소?/값
+   printf("%#p %d\n", p, *p); //메모리 주소?/값
 
-
+   return 0;
 }

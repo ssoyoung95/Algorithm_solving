@@ -8,7 +8,7 @@ int main(void)
 
    scanf("%d", p);//*p?
 
-   printf("%d...%d", *p/10,*p%10); //값
+   printf("%d...%d\n", (*p) / 10, (*p) % 10); //값
 
-
+   return 0;
 }
